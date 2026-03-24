@@ -6,21 +6,22 @@
 dados_alex = {
     "nome": "Alexsander",
     "sobrenome": "Santos",
-    "idade": 25,
+    "idade": 27,
     "data de aniversário": "12/12/1998",
     "filhos": False,
+    "formacao" : "ciencias de dados",
     "cidade": "Florianópolis",
         "aonde morou": ["São Paulo", "João Pessoa", "Florianópolis"],
         "cargos": [
             {"função": "gestor de vendas", "empresa": "veneto"},
             {"função": "analista administrativo", "empresa": "interage risk"},
             {"função": "auxiliar administrativo", "empresa": "g. muller"},
-        ],
+            {"função" :"auxiliar administrativo", "empresa": "rede milionaria"},
+        ]
     }
 print(dados_alex)
 # %%
-print(dados_alex["aonde morou"][-3])
-print(dados_alex["cargos"][1]["empresa"])
+dados_alex["cargos"][3]["empresa"]
 # %%
 dados_alex["ocupação atual"] = "estudante"
 dados_alex["cargo atual"] = "desempregado"

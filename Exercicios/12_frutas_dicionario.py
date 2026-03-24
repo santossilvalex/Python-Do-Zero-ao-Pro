@@ -1,7 +1,7 @@
 # %%
 #Solicite ao usuário o nome de uma fruta e 
 # exiba o preço correspondente.
-fruta = input("Informe a fruta desejada: ")
+fruta = input("Qual fruta você deseja? : ")
 
 frutas = {
 "Banana":"R$6,79",
