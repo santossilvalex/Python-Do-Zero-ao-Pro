@@ -2,11 +2,13 @@
 alex = ["Alexsander", 27, 
         1.73, "Namorando",
         ["Desempregado", "Estudante"],
-        ["RPG", "Games", "Musicas"]
+        ["RPG", "Games", "Musicas"],
+        ["SP", "PB", "SC"]
     ]
-print("Tamanho de Alex:", len(alex))
+print(len(alex))
 
-alex[5][1]
+
+alex[6][2]
 # %%
 tamanho_lista = len(alex)
 pos = tamanho_lista - 1
