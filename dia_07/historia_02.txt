@@ -1,0 +1,2 @@
+nao sei o que escrever aqui, mas vou escrever algo para testar a escrita em arquivos
+porém sinto que o teste deu certo, pois o arquivo foi criado e o texto foi adicionado a ele.

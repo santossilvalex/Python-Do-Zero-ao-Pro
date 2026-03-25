@@ -1,9 +1,9 @@
 # %%
 
 def juros_compostos(aporte:int, taxa:float, anos:int)->float:
-    '''juros_compostos(serve para calcular o retorno financeiro de um investimento com juros compostos, 
-    lembrando que deve considerar sempre o valor do juros atua e o tempo de que deseja manter o dinheiro investido.)
-    
+    '''juros_compostos serve para calcular o retorno financeiro de um investimento a parir de um aporte.
+    Deve-se considerar o valor, a taxa atual do juros e o tempo(em anos) para o cálculo do valor final a ser retornado.
+
     aporte: 
         valor inicial investido 
     taxa: 
@@ -15,4 +15,3 @@ def juros_compostos(aporte:int, taxa:float, anos:int)->float:
 # %%
 juros_compostos(aporte=2000, taxa=1, anos=5)
 # %%
-print()

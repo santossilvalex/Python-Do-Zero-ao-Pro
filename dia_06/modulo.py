@@ -9,7 +9,7 @@ math.sqrt(16)
 # %%
 math.pow(2, 3)
 # %%
-math.pi
+mh.pi
 # %%
 pi
 # %%

@@ -1,3 +1,4 @@
+#%%
 def soma(a:float, b:float, *args:float):
     valores = [a,b] + list(args)
     return sum(valores)
@@ -10,3 +11,6 @@ b = float(input("Informe o valor B:"))
 c = float(input("Informe o valor C:"))
 
 print("média:", media(a, b, c))
+
+
+# %%
