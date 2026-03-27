@@ -35,4 +35,5 @@ Este repositório contém meus estudos, anotações e exercícios realizados dur
 2. Cada pasta contém scripts `.py` ou notebooks com os exercícios propostos.
 
 ---
-*Estudante em constante evolução no ecossistema Python.*
+*Estudante em constante evolução no Python.*
+*Curso finalizado dia 28/03/26*
